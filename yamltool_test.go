@@ -1,7 +1,7 @@
 package yamltool
 
 import (
-	"fmt"
+  "fmt"
   "testing"
 )
 
